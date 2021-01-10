@@ -11,8 +11,9 @@ An election commission in Colorado has tasked me with performing an audit on the
 * The voter turnout for each county
 * The percentage of votes from each county out of the total count
 * The county with the highest turnout
-
-
+<br/>
+In order to find these values, I used Python 3 to read the election data and perform my analysis. 
 ## Resources
+<br/>
 -Data source: election_results.csv <br/>
 -software: Python 3.7, VS Code
