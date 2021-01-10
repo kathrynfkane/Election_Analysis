@@ -1,14 +1,17 @@
 # Election_Analysis
 
 ## Project Overview
-The purpose of this project was to automate an election audit of a recent local congressional election
-I took the following steps to complete this analysis: 
+An election commission in Colorado has tasked me with performing an audit on their local election in order to determine the winner as well as analyze the outcomes by county. They requested the following information:
+<br/>
+*Calculate total number of votes
+*Get a complete list of candidates who received votes
+*Calculate the total number of vates each candidate won
+*Calculate the percentage of votes each candidate won
+*The winner of the election based on popular vote
+*The voter turnout for each county
+*The percentage of votes from each county out of the total count
+*The county with the highest turnout
 
-1. Calculate total number of votes
-2.Get a complete list of candidates who received votes
-3. Calculate the total number of vates each candidate won
-4. Calculate the percentage of votes each candidate won
-5. Determine the winner of the election based on popular vote
 
 ## Resources
 -Data source: election_results.csv <br/>
